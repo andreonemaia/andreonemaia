@@ -1,7 +1,8 @@
 <h2> Hi, I'm Andreone Maia! </h2>
 <img align='right' src="" width="230">
-<img src="https://andreonemaia.com/wp-content/uploads/2022/07/art-avatar-01-512-400x408.png" width="100">
-<p><em>
+<img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="200">
+<p><em>Game Programmer at UmbuGames and Expresso Índie </br>
+My website and Portfólio : <a href="https://andreonemaia.com/">Website</a>
 </em></p>
 
 [![Twitter: AndreoneMaia](https://img.shields.io/twitter/follow/AndreoneMaia?style=social)](https://twitter.com/AndreoneMaia)
