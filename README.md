@@ -1,7 +1,7 @@
 <h2> Hi, I'm Andreone Maia! <img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/08/logo-andv2.png" width="250"></h2> 
 
 <p><em>Game Programmer at <b>UmbuGames</b> and <b>Expresso Índie</b> </br>
-
+<img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="200">
 </em></p>
 
 Follow me
