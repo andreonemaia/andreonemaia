@@ -6,7 +6,7 @@
 
 Follow me
 
-[![Linktree: Andreone Maia](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreonemaia)
+[![Linktree: Andreone Maia](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://andreonemaia.com/)
 [![Linktree: Andreone Maia](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreonemaia)
 [![Linkedin: Andreone Maia](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreone-maia/)
 
