@@ -14,6 +14,7 @@ Follow me
 More about me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreonemaia&layout=compact&theme=dark)](https://github.com/andreonemaia/github-readme-stats)
+![Andreone GitHub stats](https://github-readme-stats.vercel.app/api?username=andreonemaia&hide=contribs,prs)
 
 ```c#
 
