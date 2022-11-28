@@ -1,13 +1,16 @@
 <h2> Hi, I'm Andreone Maia! <img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/08/logo-andv2.png" width="200"></h2> 
 
 <p><em>Game Programmer at UmbuGames and Expresso Índie </br>
-My website and Portfólio : <a href="https://andreonemaia.com/">andreonemaia.com</a>
-<img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="100">
+My website and Portfólio : <a href="https://andreonemaia.com/">andreonemaia.com<img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="100"></a>
 </em></p>
+
+Follow me
 
 [![Twitter: AndreoneMaia](https://img.shields.io/twitter/follow/AndreoneMaia?style=social)](https://twitter.com/AndreoneMaia)
 [![Linkedin: Andreone Maia](https://img.shields.io/badge/-AndreoneMaia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreone-maia/)](https://www.linkedin.com/in/andreone-maia/)
 [![GitHub Andreone](https://img.shields.io/github/followers/andreonemaia?label=follow&style=social)](https://github.com/andreonemaia)
+
+More about me
 
 ```c#
 
