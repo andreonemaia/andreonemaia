@@ -1,12 +1,12 @@
 <h2> Hi, I'm Andreone Maia! <img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/08/logo-andv2.png" width="250"></h2> 
 
 <p><em>Game Programmer at <b>UmbuGames</b> and <b>Expresso Índie</b> </br>
-<img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="200">
+<img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="150">
 </em></p>
 
 Follow me
 
-
+[![Linktree: Andreone Maia](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreonemaia)
 [![Linktree: Andreone Maia](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreonemaia)
 [![Linkedin: Andreone Maia](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreone-maia/)
 
