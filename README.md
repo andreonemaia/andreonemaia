@@ -13,7 +13,7 @@ Follow me
 
 More about me
 
-[![LanguagesStats Andreone](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+[![LanguagesStats Andreone](https://github-readme-stats.vercel.app/api/top-langs/?username={andreonemaia}&theme=blue-green)
 
 ```c#
 
