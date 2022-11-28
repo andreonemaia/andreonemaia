@@ -7,7 +7,7 @@ My website and Portfólio : <a href="https://andreonemaia.com/">andreonemaia.com
 Follow me
 
 [![Twitter: AndreoneMaia](https://img.shields.io/twitter/follow/AndreoneMaia?style=social)](https://twitter.com/AndreoneMaia)
-[![Linkedin: Andreone Maia](https://img.shields.io/badge/-Andreone Maia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreone-maia/)](https://www.linkedin.com/in/andreone-maia/)
+[![Linkedin: Andreone Maia](https://img.shields.io/badge/-Andreone-white?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreone-maia/)](https://www.linkedin.com/in/andreone-maia/)
 [![GitHub Andreone](https://img.shields.io/github/followers/andreonemaia?label=follow&style=social)](https://github.com/andreonemaia)
 
 More about me
