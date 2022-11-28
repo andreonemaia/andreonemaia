@@ -9,7 +9,7 @@ Follow me
 
 [![Linktree: Andreone Maia](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreonemaia)
 [![Linkedin: Andreone Maia](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreone-maia/)
-[![GitHub Andreone](https://img.shields.io/github/followers/andreonemaia?label=follow&style=social)](https://github.com/andreonemaia)
+[![GitHub Andreone](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white?label=follow&style=social)](https://github.com/andreonemaia)
 
 More about me
 
