@@ -2,7 +2,7 @@
 
 <div>
 <p><em>Game Programmer at <b>Chaos Fiction</b> and <b>Expresso Índie</b> </br>
-<img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="150">
+<!-- <img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="150"> -->
 </em></p>
 </div>
 
