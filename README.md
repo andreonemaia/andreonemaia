@@ -1,18 +1,22 @@
 <h2> Hi, I'm Andreone Maia! <img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/08/logo-andv2.png" width="250"></h2> 
 
+<div>
 <p><em>Game Programmer at <b>Chaos Fiction</b> and <b>Expresso Índie</b> </br>
 <img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="150">
 </em></p>
+</div>
 
+<div>
 Follow me
-
 [![Blog](https://img.shields.io/website?label=andreonemaia.com&style=for-the-badge&url=https://andreonemaia.com/)](https://andreonemaia.com)
 [![Linktree: Andreone Maia](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreonemaia)
 [![Linkedin: Andreone Maia](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreone-maia/)
-<br><br>
-More about me
+</div>
 
 <div text-align="center";>
+More about me
+
+
   <a href="https://github.com/andreonemaia">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreonemaia&theme=vision-friendly-dark&show_icons=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreonemaia&layout=compact&langs_count=7&theme=vision-friendly-dark">
