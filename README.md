@@ -9,7 +9,7 @@ Follow me
 [![Blog](https://img.shields.io/website?label=andreonemaia.com&style=for-the-badge&url=https://andreonemaia.com/)](https://andreonemaia.com)
 [![Linktree: Andreone Maia](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreonemaia)
 [![Linkedin: Andreone Maia](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreone-maia/)
-
+<br><br>
 More about me
 
 <div text-align="center";>
