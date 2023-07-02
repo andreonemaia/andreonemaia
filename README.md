@@ -8,14 +8,16 @@
 
 <div>
 Follow me
+
 [![Blog](https://img.shields.io/website?label=andreonemaia.com&style=for-the-badge&url=https://andreonemaia.com/)](https://andreonemaia.com)
 [![Linktree: Andreone Maia](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreonemaia)
 [![Linkedin: Andreone Maia](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreone-maia/)
+
 </div>
 
 <div text-align="center";>
 More about me
-
+<br>
 
   <a href="https://github.com/andreonemaia">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreonemaia&theme=vision-friendly-dark&show_icons=true">
