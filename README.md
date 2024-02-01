@@ -1,8 +1,10 @@
 <h2> Hi, I'm Andreone Maia! <img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/08/logo-andv2.png" width="250"></h2> 
 
 <div>
-<p><em>Game Programmer at <b>Chaos Fiction</b> and <b>Expresso Índie</b> </br>
-<!-- <img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/07/avatar-adn.gif" width="150"> -->
+<p><em>
+Graduações: Ciência da Computação - Descomplica | Jogos Digitais - Estácio | Designer Gráfico - UNA<br>
+Especializações: Desenvolvedor Full-Stack - Descomplica | Growth Hacker - GAMA Academy | Product Manager - GAMA Academy<br>
+<a href = "https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj"> >> Certificações << </a> 
 </em></p>
 </div>
 
