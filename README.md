@@ -2,9 +2,9 @@
 
 <div>
 <p><em><br>
-🎓GRADUAÇÕES: Ciência da Computação - Descomplica | Jogos Digitais - Estácio | Designer Gráfico - UNA<br>
-🎓ESPECIALIZAÇÕES: Desenvolvedor Full-Stack - Descomplica | Growth Hacker - GAMA Academy | Product Manager - GAMA Academy<br><br>
-<a href = "https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj"> >> 📜Certificações📜 << </a> <br><br>
+🎓<b>GRADUAÇÕES:</b> Ciência da Computação - Descomplica | Jogos Digitais - Estácio | Designer Gráfico - UNA<br>
+🎓<b>ESPECIALIZAÇÕES:</b> Desenvolvedor Full-Stack - Descomplica | Growth Hacker - GAMA Academy | Product Manager - GAMA Academy<br><br>
+<a href = "https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj"> <b>> 📜Certificações📜 << </b></a> <br><br>
 </em></p>
 </div>
 
