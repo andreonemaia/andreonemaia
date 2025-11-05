@@ -1,9 +1,9 @@
-<h2> Hi, I'm Andreone Maia! <img align='right' src="https://andreonemaia.com/wp-content/uploads/2022/08/logo-andv2.png" width="250"></h2> 
+<h2> Hi, I'm Andreone Maia! <img align='right' src="#" width="250"></h2> 
 
 <div>
 <p><br>
 🎓<b>GRADUAÇÕES:</b> Ciência da Computação - Descomplica | Jogos Digitais - Estácio | Designer Gráfico - UNA<br>
-🎓<b>ESPECIALIZAÇÕES:</b> Desenvolvedor Full-Stack - Descomplica | Growth Hacker - GAMA Academy | Product Manager - GAMA Academy<br><br>
+🎓<b>ESPECIALIZAÇÕES:</b>IA Aplicada a Growth Marketing - Descomplica| Desenvolvedor Full-Stack - Descomplica | Growth Hacker - GAMA Academy | Product Manager - GAMA Academy<br><br>
 <a href = "https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj"> <b>> 📜CERTIFICAÇÕES📜 << </b></a> <br><br>
 </p>
 </div>
