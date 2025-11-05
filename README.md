@@ -30,32 +30,7 @@ More about me
 
 ```c#
 
-using UnrealEngine;
-using UnityEngine;
-
-namespace AndreoneMaia;
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'expressoIndie',
-                'position' => 'gameProgrammer'         
-            ]
-        ];
-    }
-    public function getDailyKnowledge(): array
-    {
-        return [
-            C#::class,
-            C++::class,
-            BP::class,
-                        
-        ];
-    }
-    
-}
+---
 ```
 <div style ="display inline_block"></br>
     <img align="center" alt="unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
