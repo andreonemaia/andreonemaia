@@ -2,8 +2,8 @@
 
 <div>
 <p><br>
-🎓<b>GRADUAÇÕES:</b> Ciência da Computação - Descomplica | Jogos Digitais - Estácio | Designer Gráfico - UNA<br>
-🎓<b>ESPECIALIZAÇÕES:</b> IA Aplicada a Growth Marketing - Descomplica | Desenvolvedor Full-Stack - Descomplica | Growth Hacker - GAMA Academy | Product Manager - GAMA Academy<br><br>
+🎓<b>GRADUAÇÕES:</b> Jogos Digitais - Estácio | Designer Gráfico - UNA<br>
+🎓<b>ESPECIALIZAÇÕES:</b> Web 3.0 | IA Aplicada a Growth Marketing | Desenvolvedor Full-Stack - Descomplica | Growth Hacker | Product Manager - GAMA Academy<br><br>
 <a href = "https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj"> <b>> 📜CERTIFICAÇÕES📜 << </b></a> <br><br>
 </p>
 </div>
