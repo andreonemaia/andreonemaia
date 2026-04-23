@@ -25,8 +25,6 @@ Com mais de 10 anos de experiência na intersecção entre tecnologia e estraté
   <img src="https://cdn.simpleicons.org/figma/white" height="22" alt="Figma" />
 </div>
 
-<br/>
-
 ---
 
 ### 📊 Estatísticas & Produtividade
@@ -45,8 +43,6 @@ Nesta seção, compartilho métricas reais do meu fluxo de trabalho, desde o tem
     </tr>
   </table>
 </div>
-
-<br/>
 
 ---
 
