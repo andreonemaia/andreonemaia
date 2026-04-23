@@ -6,27 +6,40 @@ Com mais de 10 anos de experiência na intersecção entre tecnologia e estraté
 
 #### 💡 Sobre mim
 
-- ⚡ **Tech Lead** na **[And.Verso](https://andverso.dev.br/)**, liderando engenharia de software com visão de Growth.
+- ⚡ **Tech Lead** na **[and.verso](https://andverso.dev.br/)**, liderando engenharia de software com visão de Growth.
 - 🛠️ Especialista em **Desenvolvimento Full Stack** e **IA aplicada a Growth Marketing** (Pós-graduado).
 - 🎨 Base sólida em **Jogos Digitais** e **Design Gráfico**, unindo código, performance e UX.
 - 🏆 Mais de **30 certificações** em tecnologia, marketing e game dev. [Acesse meu Drive de Certificados 📂](https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj).
 - 💬 Pergunte-me sobre **Arquitetura de Sistemas**, **Growth Hacking**, **Light Novels** ou a resposta para a vida, o universo e tudo mais (**42**).
 
+#### 🛠️ Algumas Ferramentas
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="25" alt="Unity" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" height="25" alt="Godot" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="25" alt="C++" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="25" alt="C#" />
+  &nbsp;
+  <img src="https://simpleicons.org/icons/unrealengine.svg" height="25" alt="Unreal Engine" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" height="25" alt="WordPress" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="25" alt="HTML5" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="25" alt="CSS3" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="25" alt="Figma" />
+</div>
+
 <br/>
-
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
-[![Growth Marketing](https://img.shields.io/badge/Growth_Marketing-blue?style=for-the-badge&logo=google-ads&logoColor=white)](#)
-
----
 
 ---
 
 ### 📊 Estatísticas & Produtividade
 
-Nesta seção, compartilho métricas reais do meu fluxo de trabalho, desde o tempo dedicado ao código até a gestão de tarefas diárias.
+Nesta seção, compartilho métricas reais do meu fluxo de trabalho.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andreonemaia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175px" />
