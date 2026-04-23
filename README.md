@@ -1,44 +1,21 @@
-<h2> Hi, I'm Andreone Maia! <img align='right' src="#" width="250"></h2> 
+### Olá, eu sou o Andreone Maia! 🚀
 
-<div>
-<p><br>
-🎓<b>GRADUAÇÕES:</b> Jogos Digitais - Estácio | Designer Gráfico - UNA<br>
-🎓<b>ESPECIALIZAÇÕES:</b> Web 3.0 | IA Aplicada a Growth Marketing | Desenvolvedor Full-Stack - Descomplica | Growth Hacker | Product Manager - GAMA Academy<br><br>
-<a href = "https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj"> <b>> 📜CERTIFICAÇÕES📜 << </b></a> <br><br>
-</p>
-</div>
+**Tech Lead | Full-Stack Developer | Martech | Game Programmer**
 
-<div>
-Follow me
+Com mais de 10 anos de experiência na intersecção entre tecnologia e estratégia, foco em transformar necessidades complexas em soluções técnicas escaláveis e de alto impacto.
 
-[![Blog](https://img.shields.io/website?label=andreonemaia.com&style=for-the-badge&url=https://andreonemaia.com.br/)](https://andreonemaia.com.br)
-<!--[![Linktree: Andreone Maia](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreonemaia)-->
-[![Linkedin: Andreone Maia](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreone-maia/)
+#### 💡 Sobre mim
 
-</div>
-<!--
-<div text-align="center";>
-More about me
-<br>
-  <a href="https://github.com/andreonemaia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreonemaia&theme=vision-friendly-dark&show_icons=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreonemaia&layout=compact&langs_count=7&theme=vision-friendly-dark">
-  </a>
-</div>-->
+- ⚡ **Tech Lead** na **[and.verso](https://andverso.dev.br/)**, liderando engenharia de software com visão de Growth.
+- 🛠️ Especialista em **Desenvolvimento Full Stack** e **IA aplicada a Growth Marketing** (Pós-graduado).
+- 🎨 Base sólida em **Jogos Digitais** e **Design Gráfico**, unindo código, performance e UX.
+- 🏆 Mais de **30 certificações** em tecnologia, marketing e game dev. [Acesse meu Drive de Certificados 📂](https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj).
+- 💬 Pergunte-me sobre **Arquitetura de Sistemas**, **Growth Hacking**, **Light Novels** ou a resposta para a vida, o universo e tudo mais (**42**).
 
+<br/>
 
-```c#
-
----
-```
-<div style ="display inline_block"></br>
-    <img align="center" alt="unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-    <img align="center" alt="unreal" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-    <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</div>
-
-
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Growth Marketing](https://img.shields.io/badge/Growth_Marketing-blue?style=for-the-badge&logo=google-ads&logoColor=white)](#)
