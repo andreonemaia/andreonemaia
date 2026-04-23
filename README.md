@@ -32,7 +32,7 @@ Com mais de 10 anos de experiência na intersecção entre tecnologia e estraté
 Nesta seção, compartilho métricas reais do meu fluxo de trabalho, desde o tempo dedicado ao código até a gestão de tarefas diárias.
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=andreonemaia&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
