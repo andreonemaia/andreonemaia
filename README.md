@@ -39,7 +39,7 @@ Com mais de 10 anos de experiência na intersecção entre tecnologia e estraté
 
 ### 📊 Estatísticas & Produtividade
 
-Nesta seção, compartilho métricas reais do meu fluxo de trabalho.
+Nesta seção, compartilho métricas reais do meu fluxo de trabalho, desde o tempo dedicado ao código até a gestão de tarefas diárias.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andreonemaia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175px" />
@@ -48,6 +48,22 @@ Nesta seção, compartilho métricas reais do meu fluxo de trabalho.
 </div>
 
 <br/>
+
+---
+
+### 🤝 Saiba mais sobre mim
+
+Além da engenharia e das estratégias de growth, acredito que a tecnologia é, acima de tudo, sobre pessoas. Busco o equilíbrio exato entre a execução técnica impecável e o propósito estratégico de cada projeto, sempre priorizando decisões baseadas em dados.
+
+> **"Bom ouvinte, observador e gamer nas horas vagas e não tão vagas."**
+
+Quando não estou liderando a arquitetura de novos produtos na **And.Verso** ou explorando o potencial da IA, você provavelmente me encontrará mergulhado em uma *Light Novel* com bom world-building, ou jogando "videojogos".
+
+---
+
+<div align="center">
+  <p><i>"A resposta para a vida, o universo e tudo mais é 42."</i></p>
+</div>
 
 
 
