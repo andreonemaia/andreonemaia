@@ -58,4 +58,4 @@ Quando não estou liderando a arquitetura de novos produtos na **And.Verso** ou 
 
 <div align="center">
   <p><i>42, resposta para Questão Fundamental sobre a Vida, o Universo e Tudo Mais</i></p>
-</div>t
+</div>
