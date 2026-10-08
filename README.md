@@ -7,9 +7,9 @@ Utilizo inteligência artificial e agentes como apoio ao desenvolvimento e à re
 
 #### 💡 Sobre mim
 
-- ⚡ **Engenheiro de Software** na **[And.Verso](https://andverso.dev.br/)**, liderando engenharia de software com visão de Growth.
+- ⚡ **Engenheiro de Software** na **[And.Verso](https://andverso.dev.br/)**, coordenando projetos de software com foco em produto e negócio.
 - 🛠️ Especialista em **Desenvolvimento Full Stack** e **IA aplicada a Growth Marketing** (Pós-graduado). Pós-graduando em Engenharia de Software com IA
-- 🎨 Base sólida em **Jogos Digitais** and **Design Gráfico**, unindo código, performance e UX.
+- 🎨 Base sólida em **Jogos Digitais** e **Design Gráfico**, unindo código, performance e UX.
 - 🏆 Mais de **30 certificações** em tecnologia, marketing e game dev. [Acesse meu Drive de Certificados 📂](https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj).
 - 💬 Pergunte-me sobre **Arquitetura de Sistemas**, **Growth Hacking**, **Light Novels** ou a resposta para a vida, o universo e tudo mais (**42**).
 
