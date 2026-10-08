@@ -1,13 +1,14 @@
 ### Olá, eu sou o Andreone Maia! 🚀
 
-**Tech Lead | Full-Stack Developer | Martech | Game Programmer**
+**Engenheiro de Software | Desenvolvedor Full Stack | AI Solutions**
 
-Com mais de 10 anos de experiência na intersecção entre tecnologia e estratégia, foco em transformar necessidades complexas em soluções técnicas escaláveis e de alto impacto.
+Atuo em desenvolvimento web, automações e integrações de sistemas. Na AndVerso, coordeno uma equipe de desenvolvimento e participo da construção e evolução de soluções para clientes.
+Utilizo inteligência artificial e agentes como apoio ao desenvolvimento e à revisão de software. Meu foco é conectar necessidades de negócio a soluções técnicas, com atenção à compreensão do código, à documentação e à validação dos resultados.
 
 #### 💡 Sobre mim
 
-- ⚡ **Tech Lead** na **[And.Verso](https://andverso.dev.br/)**, liderando engenharia de software com visão de Growth.
-- 🛠️ Especialista em **Desenvolvimento Full Stack** e **IA aplicada a Growth Marketing** (Pós-graduado).
+- ⚡ **Engenheiro de Software** na **[And.Verso](https://andverso.dev.br/)**, liderando engenharia de software com visão de Growth.
+- 🛠️ Especialista em **Desenvolvimento Full Stack** e **IA aplicada a Growth Marketing** (Pós-graduado). Pós-graduando em Engenharia de Software com IA
 - 🎨 Base sólida em **Jogos Digitais** and **Design Gráfico**, unindo código, performance e UX.
 - 🏆 Mais de **30 certificações** em tecnologia, marketing e game dev. [Acesse meu Drive de Certificados 📂](https://drive.google.com/drive/u/0/folders/1ZxUfSyHx2_gvugLRSEQBfGff8aE9baZj).
 - 💬 Pergunte-me sobre **Arquitetura de Sistemas**, **Growth Hacking**, **Light Novels** ou a resposta para a vida, o universo e tudo mais (**42**).
@@ -48,7 +49,7 @@ Nesta seção, compartilho métricas reais do meu fluxo de trabalho, desde o tem
 
 ### 🤝 Saiba mais sobre mim
 
-Além da engenharia e das estratégias de growth, acredito que a tecnologia é acima de tudo sobre pessoas. Busco o equilíbrio exato entre a execução técnica impecável e o propósito estratégico de cada projeto, sempre priorizando decisões baseadas em dados.
+Além da engenharia e das estratégias de growth, acredito que a tecnologia é acima de tudo sobre pessoas. Busco o equilíbrio exato entre a execução técnica e o propósito estratégico de cada projeto, sempre priorizando decisões baseadas em dados.
 
 > **"Bom ouvinte, observador e gamer nas horas vagas e não tão vagas."**
 
